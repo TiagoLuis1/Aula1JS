@@ -1,0 +1,13 @@
+npm run dev-mostrar site na web
+--------------------------------------------------------------------------------------------------
+var a 
+
+var b
+
+function soma(a,b) {return a+b}
+
+soma(2,2)
+4
+
+
+alert(soma(2,2));
